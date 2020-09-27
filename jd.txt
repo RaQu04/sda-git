@@ -1,2 +1,3 @@
 JD
 testowanie gita
+plik update w nowym miejscu
